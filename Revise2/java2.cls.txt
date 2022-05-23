@@ -8,6 +8,7 @@ public DemoClass{
 		int c=a+b;
 		system.out.println("Sum is:= "c);
 		System.out.println("Thanks....")
+		System.out.println("Changed Uat3");
 	}
 	
 }
